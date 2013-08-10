@@ -21,7 +21,7 @@ class Main extends Canvas_OpenFL
         	var random = function(_,_,_):Int return Math.floor(Math.random() *0xffffff);
                 
                 
-                console.setDimension([30,16]);
+                console.setDimension([30,12]);
                 console.clean();				
                 console.begin_draw();
                 console.fill_rect([0,0],[16,6],random,random,"#");                
