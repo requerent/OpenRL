@@ -3,6 +3,8 @@ OpenRL
 
 A rogue-like library written in HaXe* designed to logically abstract various back-ends.
 
+Rebrogue.swf provides a simple demonstration of the current progress. It isn't interactive at the moment, but it just shows some of the basic drawing features- see Source/Main.hx.
+
 *HaXe is an ECMAScript style language with powerful meta-features.
 
 So what is it?
